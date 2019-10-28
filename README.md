@@ -10,6 +10,7 @@ yasashi0922 的个人博客
 
 ### 最新
 
+* [wanglisi](http://www.wanglisi.com/articles/2019/10/28/1572245690261.html)
 * [世界，你好！](http://www.wanglisi.com/hello-solo)
 
 
